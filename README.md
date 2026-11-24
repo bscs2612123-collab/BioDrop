@@ -20,6 +20,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/EddieHubCommunity/BioDrop)
 
 **Project renamed from `LinkFree` to `BioDrop`**(please update your local git clones with the new remote name)
+helloooo pakistan 
 
 ![BioDrop logo on a sticker](https://github.com/EddieHubCommunity/BioDrop/assets/624760/31adec45-3dc3-4353-b37a-9b316a217261)
 
